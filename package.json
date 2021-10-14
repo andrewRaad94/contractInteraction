@@ -1,0 +1,19 @@
+{
+	"name": "contractInteraction",
+	"version": "1.0.0",
+	"description": "Load different contracts",
+	"main": "truffle.js",
+	"dictories": {
+		"test": "test"
+	},
+
+	"scripts": {
+		"dev":"lite-server"
+	},
+
+	"author": "Andrew Raad github: andrewRaad94",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	}
+}
